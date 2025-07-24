@@ -1,1 +1,1 @@
-# smartphishing
+# smartphishing-browser-extension
